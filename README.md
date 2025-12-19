@@ -68,10 +68,6 @@
    python main.py
    ```
 
-4. **Install FFmpeg** (if not already installed)
-   - Click the "Install FFmpeg" button in the app, or
-   - Run: `spotdl --download-ffmpeg`
-
 ## Usage
 
 ### Download from URL
