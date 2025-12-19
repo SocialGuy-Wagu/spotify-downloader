@@ -1,0 +1,5 @@
+# Spotify Downloader Dependencies
+customtkinter>=5.2.0
+spotdl>=4.0.0
+spotipy>=2.23.0
+psutil>=5.9.0
